@@ -1,0 +1,13 @@
+.item{
+    color: coral;
+}
+
+.item img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+}
+
+.like img{
+    width: 30px;
+}
